@@ -1,0 +1,29 @@
+
+
+.text {
+	FONT-WEIGHT: bold; COLOR: #ffffff
+}
+INPUT {
+	BORDER-RIGHT: #663333 1px solid; BORDER-TOP: #663333 1px solid; PADDING-LEFT: 3px; FONT-WEIGHT: normal; FONT-SIZE: 11px; BORDER-LEFT: #663333 1px solid; COLOR: #663333; BORDER-BOTTOM: #663333 1px solid; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.text1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #663333; FONT-FAMILY: Tahoma; TEXT-ALIGN: justify; TEXT-DECORATION: none
+}
+.text2 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #663333; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.text3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: Tahoma; TEXT-ALIGN: justify; TEXT-DECORATION: none
+}
+.text4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #663333; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.inputbox {
+	BORDER-RIGHT: #663333 1px solid; BORDER-TOP: #663333 1px solid; FONT: bold xx-small Tahoma, Helvetica, sans-serif; BORDER-LEFT: #663333 1px solid; COLOR: black; BORDER-BOTTOM: #663333 1px solid; BACKGROUND-COLOR: white
+}
+.outside_border_search_box {
+	BORDER-RIGHT: #663333 1px solid; BORDER-TOP: #663333 1px solid; BORDER-LEFT: #663333 1px solid; BORDER-BOTTOM: #663333 1px solid
+}
+.border2 {
+	BORDER-RIGHT: #663333 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #663333 1px solid; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; BORDER-LEFT: #663333 1px solid; PADDING-TOP: 3px; BORDER-BOTTOM: #663333 1px solid
+}

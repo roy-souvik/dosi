@@ -1,0 +1,117 @@
+.cpanel_border {
+	BORDER-RIGHT: #e2e2e2 1px; BORDER-TOP: #e2e2e2 1px; BORDER-LEFT: #e2e2e2 1px; BORDER-BOTTOM: #e2e2e2 1px solid
+}
+.outside_border {
+	BORDER-RIGHT: #ffffff 4px solid; BORDER-TOP: #ffffff 4px; BORDER-LEFT: #ffffff 4px solid; BORDER-BOTTOM: #ffffff 4px
+}
+.left_column {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.main {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+PRE {
+	FONT-SIZE: 11px
+}
+.index1 {
+	FONT-SIZE: 10px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #b7cbcf
+}
+.index2 {
+	FONT-SIZE: 10px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #e6e6e6
+}
+.indexbold {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.error {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #ff0000; FONT-STYLE: normal; FONT-FAMILY: Verdana
+}
+.input {
+	BORDER-RIGHT: #999999 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #999999 1px solid; PADDING-LEFT: 2px; FONT-WEIGHT: normal; FONT-SIZE: 11px; PADDING-BOTTOM: 2px; BORDER-LEFT: #999999 1px solid; COLOR: #666666; PADDING-TOP: 2px; BORDER-BOTTOM: #999999 1px solid; FONT-FAMILY: Tahoma, Arial
+}
+.formheader {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #02087c; FONT-FAMILY: Tahoma, Arial
+}
+.form {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 7px; FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #02087c; FONT-FAMILY: verdana,Arial,Helvetica
+}
+.formheader1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: verdana,Arial,Helvetica
+}
+.inputbox {
+	BORDER-RIGHT: #8cacbb 1px solid; BORDER-TOP: #8cacbb 1px solid; FONT: bold 11px Tahoma, Helvetica, sans-serif; BORDER-LEFT: #8cacbb 1px solid; COLOR: black; BORDER-BOTTOM: #8cacbb 1px solid; BACKGROUND-COLOR: white
+}
+.copyright {
+	FONT-SIZE: 11px; COLOR: #34452b; FONT-FAMILY: Tahoma, Arial
+}
+.aboutus_main {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; FONT-SIZE: 12px; PADDING-BOTTOM: 4px; COLOR: #333333; PADDING-TOP: 4px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.admin_login {
+	PADDING-RIGHT: 12px; PADDING-LEFT: 12px; FONT-SIZE: 11px; PADDING-BOTTOM: 12px; PADDING-TOP: 12px; FONT-FAMILY: Tahoma, Arial
+}
+.programs {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 4px; COLOR: #ffffff; PADDING-TOP: 4px; FONT-FAMILY: Tahoma, Arial
+}
+.programs_schedule {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; FONT-SIZE: 11px; PADDING-BOTTOM: 6px; COLOR: #333333; PADDING-TOP: 6px; FONT-FAMILY: Tahoma, Arial
+}
+.features {
+	BORDER-RIGHT: #999999 1px solid; PADDING-RIGHT: 6px; BORDER-TOP: #999999 1px; PADDING-LEFT: 6px; FONT-SIZE: 11px; PADDING-BOTTOM: 6px; BORDER-LEFT: #999999 1px solid; COLOR: #666666; PADDING-TOP: 6px; BORDER-BOTTOM: #999999 1px; FONT-FAMILY: Tahoma, Arial
+}
+.download_button {
+	BORDER-RIGHT: 1px; PADDING-RIGHT: 6px; BORDER-TOP: 1px; PADDING-LEFT: 6px; FONT-SIZE: 11px; PADDING-BOTTOM: 6px; BORDER-LEFT: 1px; COLOR: #666666; PADDING-TOP: 6px; BORDER-BOTTOM: 1px; FONT-FAMILY: Tahoma, Arial
+}
+.download_button:link {
+	BORDER-RIGHT: #6b696b 1px; PADDING-RIGHT: 6px; BORDER-TOP: #6b696b 1px; PADDING-LEFT: 6px; FONT-SIZE: 11px; PADDING-BOTTOM: 6px; BORDER-LEFT: #6b696b 1px; COLOR: #636563; PADDING-TOP: 6px; BORDER-BOTTOM: #6b696b 1px; FONT-FAMILY: Tahoma, Arial
+}
+.download_button:hover {
+	BORDER-RIGHT: #6b696b 1px; PADDING-RIGHT: 6px; BORDER-TOP: #6b696b 1px; PADDING-LEFT: 6px; FONT-SIZE: 11px; PADDING-BOTTOM: 6px; BORDER-LEFT: #6b696b 1px; COLOR: #ffffff; PADDING-TOP: 6px; BORDER-BOTTOM: #6b696b 1px; FONT-FAMILY: Tahoma, Arial; BACKGROUND-COLOR: #990000
+}
+.download_button:visited {
+	BORDER-RIGHT: #6b696b 1px; PADDING-RIGHT: 6px; BORDER-TOP: #6b696b 1px; PADDING-LEFT: 6px; FONT-SIZE: 11px; PADDING-BOTTOM: 6px; BORDER-LEFT: #6b696b 1px; PADDING-TOP: 6px; BORDER-BOTTOM: #6b696b 1px; FONT-FAMILY: Tahoma, Arial
+}
+.form {
+	BORDER-RIGHT: #999999 1px; PADDING-RIGHT: 3px; BORDER-TOP: #999999 1px; PADDING-LEFT: 3px; FONT-SIZE: 11px; PADDING-BOTTOM: 3px; BORDER-LEFT: #999999 1px; COLOR: #666666; PADDING-TOP: 3px; BORDER-BOTTOM: #999999 1px; FONT-FAMILY: Tahoma, Arial
+}
+.button {
+	BORDER-RIGHT: #003366 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #003366 1px solid; PADDING-LEFT: 2px; FONT-SIZE: 11px; PADDING-BOTTOM: 2px; BORDER-LEFT: #003366 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #003366 1px solid; FONT-FAMILY: Tahoma, Arial
+}
+.contact_details {
+	BORDER-RIGHT: #999999 1px; PADDING-RIGHT: 6px; BORDER-TOP: #999999 1px; PADDING-LEFT: 6px; FONT-SIZE: 11px; PADDING-BOTTOM: 6px; BORDER-LEFT: #999999 1px; COLOR: #666666; PADDING-TOP: 6px; BORDER-BOTTOM: #999999 1px; FONT-FAMILY: Tahoma, Arial
+}
+.homepage {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 12px; FONT-WEIGHT: normal; FONT-SIZE: 11px; PADDING-BOTTOM: 6px; COLOR: #7e7e7e; LINE-HEIGHT: 16px; PADDING-TOP: 6px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.homepage_header {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 12px; FONT-WEIGHT: normal; FONT-SIZE: 11px; PADDING-BOTTOM: 0px; COLOR: #7e7e7e; LINE-HEIGHT: 18px; PADDING-TOP: 0px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.outside_border_search_box {
+	BORDER-RIGHT: #b7b7b7 1px solid; BORDER-TOP: #b7b7b7 1px solid; BORDER-LEFT: #b7b7b7 1px solid; BORDER-BOTTOM: #b7b7b7 1px solid
+}
+.admin_table {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; FONT-SIZE: 12px; PADDING-BOTTOM: 4px; COLOR: #02087c; PADDING-TOP: 4px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.admin_main_header1 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; FONT-SIZE: 11px; PADDING-BOTTOM: 4px; COLOR: #003366; PADDING-TOP: 4px; FONT-FAMILY: Tahoma, Arial
+}
+.admin_main_header2 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; FONT-SIZE: 11px; PADDING-BOTTOM: 8px; COLOR: #003366; PADDING-TOP: 8px; FONT-FAMILY: Tahoma, Arial
+}
+.admin_main_header2:link {
+	FONT-SIZE: 11px; COLOR: #003366; FONT-FAMILY: Tahoma, Arial; TEXT-DECORATION: underline
+}
+.admin_main_header2:hover {
+	FONT-SIZE: 11px; COLOR: #cc3300; FONT-FAMILY: Tahoma, Arial; TEXT-DECORATION: underline
+}
+.admin_main_header2:visited {
+	FONT-SIZE: 11px; COLOR: #000099; FONT-FAMILY: Tahoma, Arial; TEXT-DECORATION: none
+}
+.left_pic {
+	BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 4px; FONT-SIZE: 11px; PADDING-BOTTOM: 4px; BORDER-LEFT: #cccccc 1px solid; COLOR: #003366; PADDING-TOP: 4px; BORDER-BOTTOM: #cccccc 1px solid; FONT-FAMILY: Tahoma, Arial
+}
+.site-link {
+	FONT-SIZE: 12px; COLOR: #003399; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.site-link:hover {
+	TEXT-DECORATION: underline
+}
